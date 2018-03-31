@@ -1,4 +1,4 @@
-package designpattern.main;
+package designpattern.p1creational.main;
 
 import designpattern.p1creational.b1prototype.Experience;
 

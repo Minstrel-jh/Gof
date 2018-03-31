@@ -1,4 +1,4 @@
-package designpattern.main;
+package designpattern.p3behavioral.main;
 
 import designpattern.p3behavioral.c2observer.ConcreteObserver1;
 import designpattern.p3behavioral.c2observer.ConcreteObserver2;

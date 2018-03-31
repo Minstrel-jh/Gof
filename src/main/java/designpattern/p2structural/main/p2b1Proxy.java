@@ -1,4 +1,4 @@
-package designpattern.main;
+package designpattern.p2structural.main;
 
 import designpattern.p2structural.b1proxy.RealSubject;
 import designpattern.p2structural.b1proxy.Subject;

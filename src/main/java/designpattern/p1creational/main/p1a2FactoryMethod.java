@@ -1,4 +1,4 @@
-package designpattern.main;
+package designpattern.p1creational.main;
 
 import designpattern.p1creational.a2factorymethod.Factory;
 import designpattern.p1creational.a2factorymethod.Product;

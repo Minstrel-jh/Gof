@@ -1,4 +1,4 @@
-package designpattern.main;
+package designpattern.p3behavioral.main;
 
 import designpattern.p3behavioral.a2strategy.Context;
 

@@ -4,6 +4,7 @@ import designpattern.p2structural.e1composite.Component;
 import designpattern.p2structural.e1composite.Composite;
 import designpattern.p2structural.e1composite.Leaf;
 
+// 组合模式 树形结构
 public class p2e1Composite {
     public static void main(String[] args) {
         Component root = new Composite("根节点");

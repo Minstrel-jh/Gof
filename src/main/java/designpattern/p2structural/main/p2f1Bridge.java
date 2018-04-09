@@ -5,6 +5,7 @@ import designpattern.p2structural.f1bridge.ConcreteImplementorA;
 import designpattern.p2structural.f1bridge.ConcreteImplementorB;
 import designpattern.p2structural.f1bridge.RefinedAbstracion;
 
+// 桥接模式
 public class p2f1Bridge {
     public static void main(String[] args) {
         Abstraction ab = new RefinedAbstracion("ProName");
